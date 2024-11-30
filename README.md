@@ -14,6 +14,10 @@ A collection of HTML and CSS projects for learning and practicing responsive web
 </html>
 ```
 
+It should look like his
+
+![Main structure](./PersonalPortfolioPage/static/img/1_main_html_structure.png "Main Structure")
+
 ## Step 1: Add title
 ```html
 ...
@@ -23,6 +27,10 @@ A collection of HTML and CSS projects for learning and practicing responsive web
 ...
 ```
 
+It should look like his
+
+![Add page title](./PersonalPortfolioPage/static/img/2_add_html_title.png "Add page title")
+
 ## Step 2: Add H1 tag title
 ```html
 ...
@@ -31,6 +39,9 @@ A collection of HTML and CSS projects for learning and practicing responsive web
     </body>
 ...
 ```
+It should look like his
+
+![Add h1 title](./PersonalPortfolioPage/static/img/3_add_html_h1.png "Add h1 title")
 
 ## Step 3: Add p tag paragraph
 ```html
@@ -40,6 +51,8 @@ A collection of HTML and CSS projects for learning and practicing responsive web
     </body>
 ...
 ```
+It should look like his
+![Add paragraph title](./PersonalPortfolioPage/static/img/4_add_html_paragraph.png "Add paragraph")
 
 ## Step 4: Add external link
 ```html
@@ -49,6 +62,8 @@ A collection of HTML and CSS projects for learning and practicing responsive web
     </body>
 ...
 ```
+It should look like his
+![Add external link](./PersonalPortfolioPage/static/img/5_add_html_link.png "Add external link")
 
 ## Step 5: Open link in a new tab
 ```html
@@ -72,6 +87,11 @@ A collection of HTML and CSS projects for learning and practicing responsive web
     </body>
 ...
 ```
+
+It should look like his
+![Add unordered list](./PersonalPortfolioPage/static/img/6_add_html_unordered_list.png "Add unordered list")
+
+
 ## Step 7: Add ordered list
 ```html
 ...
@@ -85,6 +105,10 @@ A collection of HTML and CSS projects for learning and practicing responsive web
     </body>
 ...
 ```
+It should look like his
+![Add ordered list](./PersonalPortfolioPage/static/img/7_add_html_ordered_list.png "Add ordered list")
+
+
 
 ## Step 8: Add Image
 ```html
@@ -95,3 +119,6 @@ A collection of HTML and CSS projects for learning and practicing responsive web
     </body>
 ...
 ```
+
+It should look like his
+![Add image](./PersonalPortfolioPage/static/img/8_add_image.png "Add image")
